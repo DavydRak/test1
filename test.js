@@ -1,4 +1,14 @@
 const test = "test";
 alert("Hello!")
 
-dfg
+hello
+
+hello
+
+hello
+
+bye
+
+bye
+
+bye
