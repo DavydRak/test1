@@ -1,15 +1,14 @@
 const test = "test";
 alert("Hello!")
 
-dfg
+hello
 
+hello
 
-f
-b
-lablallab
-g
-fd
-g
-f
-g
-df
+hello
+
+bye
+
+bye
+
+bye
